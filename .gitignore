@@ -1,0 +1,8 @@
+# Keil build output and per-user settings
+firmware/Objects/
+firmware/Listings/
+*.uvguix.*
+*.bak
+*.dep
+.DS_Store
+__pycache__/
